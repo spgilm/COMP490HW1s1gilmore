@@ -1,5 +1,5 @@
-#About:
-This function was developed in Python 3.8
+# About:
+This function was developed in Python 3.8 by Sean Gilmore (s1gilmore)
 
 ## calculate_total
 The calculate_total function takes two arguments:<br>

@@ -57,4 +57,8 @@
     </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Started project, filled out readme.md, started main and currently seem to have the no sales tax NH completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Started project, filled out readme.md, started main and currently seem to have the no sales tax NH completed" />
+  </component>
 </project>
