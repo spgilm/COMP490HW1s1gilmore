@@ -1,5 +1,5 @@
 # About:
-This function was developed in Python 3.8 by Sean Gilmore (s1gilmore)
+This function was developed in Python 3.8 by Sean Gilmore (s1gilmore) using PyCharm as an IDE
 
 ## calculate_total
 The calculate_total function takes two arguments:<br>
@@ -16,3 +16,4 @@ Assuming the function is passed proper arguments, it will calculate the customer
 Floats will not be rounded to "two decimal" USD notation until end of calculation
 
 ## test_calculate_total
+Tests written for pytest. In PyCharm right click test folder and choose "Run 'pytest in tests'"
