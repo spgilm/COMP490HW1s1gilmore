@@ -17,4 +17,4 @@ Floats will not be rounded to "two decimal USD notation" until end of calculatio
 Unavailable states or attempts at a negative price will result in a 0.00 total with an error message.<br>
 <br>
 ## test_calculate_total
-Tests written for pytest. In PyCharm right click test folder and choose "Run 'pytest in tests'"
+Tests written for pytest. In PyCharm right click tests folder and choose "Run 'pytest in tests'"
